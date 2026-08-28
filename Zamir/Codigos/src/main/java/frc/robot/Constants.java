@@ -7,10 +7,12 @@ public final class Constants {
     public static final int MOTOR_0 = 0; //front
     public static final int MOTOR_2 = 2; //left
     public static final int MOTOR_3 = 3; //right
+    public static final int MOTOR_1 = 1;
 
     public static final int ENCODER_0 = 0;
     public static final int ENCODER_2 = 2;
     public static final int ENCODER_3 = 3;
+    public static final int ENCODER_1 = 1;
 
     public static final int BTN_START     = 10;
     public static final int BTN_STOP      = 9;
